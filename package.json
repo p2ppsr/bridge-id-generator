@@ -1,0 +1,17 @@
+{
+  "name": "bridge-id-generator",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "bridge-id-generator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babbage-bsv": "^0.1.0"
+  }
+}
