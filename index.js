@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const bsv = require('babbage-bsv')
 
 const privateKey = bsv.PrivateKey.fromRandom()
